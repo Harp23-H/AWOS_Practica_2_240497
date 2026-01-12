@@ -7,8 +7,7 @@ console.warn("-- Declaracion de Variables utilizando el prefijo VAR --")
 console.log ("El valor de la variable elNombre es =", miNombre);
 console.log ("El valor de la variable misApellidos es =", misApellidos);
 
-//esto arroja un undefined dado que la variable no a sido inicializada
-//esto arroja un undefined dado que la variable no a sido inicializada
+//esto arroja un undefined dado que la variable no a sido inicializadaa
 misApellidos="Ramirez Peralta"
 //En este momento la variable ya tiene un valor 
 console.log("El valor de la variable misApellidos es =", misApellidos)
