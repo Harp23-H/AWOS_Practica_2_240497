@@ -6,11 +6,12 @@ console.warn("-- Declaracion de Variables utilizando el prefijo VAR --")
 //utilizaremos la funcion console.log para imprimir el valor actual de la variable 
 console.log ("El valor de la variable elNombre es =", miNombre);
 console.log ("El valor de la variable misApellidos es =", misApellidos);
-//esto arroja un undefined dado que la variable no a sido inicializadaa
+//esto arroja un undefined dado que la variable no a sido inicializada
 
 misApellidos="Ramirez Peralta"
 //En este momento la variable ya tiene un valor 
 console.log("El valor de la variable misApellidos es =", misApellidos)
+
 //Para actualizar el valor de una variable previamente definida solo basta con igualar el nuevo valor
 miNombre="Harold Alexis";
 console.log("Hola, ",miNombre, misApellidos)
