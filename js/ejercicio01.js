@@ -2,7 +2,7 @@
 var miNombre = "Harold";
 var misApellidos;
 console.warn("-- Declaracion de Variables utilizando el prefijo VAR --")
-
+//s
 //utilizaremos la funcion console.log para imprimir el valor actual de la variable 
 console.log ("El valor de la variable elNombre es =", miNombre);
 console.log ("El valor de la variable misApellidos es =", misApellidos);
