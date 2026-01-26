@@ -1,5 +1,5 @@
 // Personalizamos el separador del ejercicio 03
-console.log("Ejercicio 03: Funciones ");
+console.log("%cEjercicio 03: Funciones ",style_console);
 
 //1. Funciones Procedurares, funciones vacia (VOID) o funciones que no retornan un valor
 

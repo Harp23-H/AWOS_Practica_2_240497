@@ -1,11 +1,11 @@
-//Estilización de la barra zona de pruebas en el DevTools en el navegador
-console.log("%cEjercicio 04: Objetos ");
-
+// Estilización de el separador del ejercicio 04
+console.log("%c Ejercicio 04: Objetos ",style_console);
 console.warn("1. Propiedades de un Objeto")
+
 // Esto no es un objeto son variables independientes que no se encuentran asociadas
 let propertyID = 1;
 let propertyName = "Departamento en el Centro de Ciudad de México";
-let propertyDescription = "Hermoso departamento de 3 recámaras , 1 baño y 1 cajón de estacionamiento ubicado en el Centro de Ciudad de México, Ubicado en un tercer piso."
+let propertyDescription = "Hermoso departamento de 3 recámaras , 1 baño y 1 cajón de estacionamiento ubicado en el Centro de Ciudad de México, Ubicado en un tercer piso.";
 let propertyType = "D";     // H: House  D: Deparment T: Terrain L: Locale  W: Warehouse  C: Cabain
 let propertyIsSaleable = false;    // Se vende?
 let propertyIsRentable = true;    // Se renta?
@@ -33,7 +33,7 @@ console.log(`Datos de la propiedad en RENTA:
 
 //2. Declaración de un objeto 
 /* Para declarar un objeto en JS es necesario asignarle un nombre y todas sus propiedades irán entre {} y separadas por coma en el order clave : valor */
-console.warn("2. Declaración de el objeto property1")
+console.warn("2. Declaración de el objeto property1", style_console)
 property1 = {
     id: 1,
     name: "Departamento en el Centro de Ciudad de México", 

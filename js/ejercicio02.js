@@ -1,7 +1,7 @@
 // Tipos de datos en Java Script
 
 // Personalización de salidas a Consola
-console.log("%Ejercicio 02: Tipos de Datos ");
+console.log("%cEjercicio 02: Tipos de Datos ",style_console);
 
 // 1. Undefined - valor por defecto asignado a variables declaradas pero no inicializadas, no es igual a NULL.
 console.warn("1.- UNDEFINED (No Definido)")
@@ -24,7 +24,7 @@ console.log(`ultimoAcceso = ${typeof(ultimoAcceso)}`);
 
 // Supongamos que un usuario denominado Amaro06 se ha logeado exitosamente, el valor de la variable debera actualizarse a su username
 
-usuarioLogeado = "Amaro06";
+usuarioLogeado = "Harp23";
 
 // pero no solo cambiará su valor , también cambiará su tipo
 
@@ -92,8 +92,8 @@ console.log(`Los tipos de datos de las variables declaradas para los datos de la
 
 //4.- STRING (Cadena de Caracteres)
 
-var fullnameOwner = "Jose Eduardo A. Hernandez"
-let nameProperty = "          Hermosa Casa en la Playa de Puerto Vallarta   ";
+var fullnameOwner = "Harold Alexis Ramirez Peralta"
+let nameProperty = "Hermosa Casa en la Playa de Puerto Vallarta ";
 let descriptionProperty = "CASA de 2 pisos, 4 HABITACIONES, 2 baños completos y estacionamiento para 2 automoviles a orilla del MAR.";
 var statusProperty = "Disponible";
 const typeProperty="C";
